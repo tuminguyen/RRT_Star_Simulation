@@ -1,6 +1,6 @@
-# RRT SIMULATION
+# RRT* SIMULATION
 
-Simulate RRT (Rapidly-exploring Random Tree) algorithm with Python in 2 scenarios:
+Simulate RRT* (Rapidly-exploring Random Tree STAR) algorithm with Python in 2 scenarios:
 - Easy: no lane, only obstacles
 - Hard: complex lanes and obstacles
 
@@ -43,3 +43,4 @@ pip install -r requirements.txt
     ```
     python RRTS.py -m hard
     ```
+Code for the lower version (RRT) is **[here](https://github.com/tuminguyen/RRT_Simulation_Path_Planning)**
