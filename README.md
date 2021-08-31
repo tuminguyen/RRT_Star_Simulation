@@ -6,8 +6,8 @@ Simulate RRT (Rapidly-exploring Random Tree) algorithm with Python in 2 scenario
 
 
 <p float="left">
-  <image src="images/wo_lines.gif" width="410" hspace="15"/>
-  <image src="images/withLines.gif" width="410"/> 
+  <image src="images/wo_lines.gif" width="400" hspace="10"/>
+  <image src="images/withLines.gif" width="400"/> 
 </p>
 
 ## Environment 
